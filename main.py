@@ -1,5 +1,5 @@
-from challenges.netsted_list_2nd_lower import nested_list_2nd_lower
+from challenges.student_marks import student_m
 
 if __name__ == '__main__':
-  nested_list_2nd_lower()
+  student_m()
   

@@ -1,5 +1,5 @@
-from challenges.student_marks import student_m
+from challenges.lexographic_increasing import lex_increase
 
 if __name__ == '__main__':
-  student_m()
+  lex_increase()
   

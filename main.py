@@ -1,5 +1,5 @@
-from challenges.list_number_ops import listops
+from challenges.hashit import hashit
 
 if __name__ == '__main__':
-  listops()
+  hashit()
   
